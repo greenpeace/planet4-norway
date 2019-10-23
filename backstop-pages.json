@@ -1,0 +1,22 @@
+{
+  "scenarios": [
+    {
+      "label": "Planet4 Norway act page",
+      "url": "https://APP_HOSTNAME/APP_HOSTPATH/vaer-med",
+      "delay": 3000,
+      "misMatchThreshold": 0.5
+    },
+    {
+      "label": "Planet4 Norway explore page",
+      "url": "https://APP_HOSTNAME/APP_HOSTPATH/laer/",
+      "delay": 3000,
+      "misMatchThreshold": 0.5
+    },
+    {
+      "label": "Planet4 Norway privacy and cookies page",
+      "url": "https://APP_HOSTNAME/APP_HOSTPATH/personvernerklaering/",
+      "delay": 3000,
+      "misMatchThreshold": 0.5
+    }
+  ]
+}
