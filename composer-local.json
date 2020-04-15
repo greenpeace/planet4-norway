@@ -3,16 +3,12 @@
 	"description": "Greenpeace P4 Norway",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-child-theme-norway" : "*",
-		"greenpeace/planet4-plugin-migrated-urls": "0.0.1",
-		"wpackagist-plugin/wp-stateless": "2.1.7"
+		"greenpeace/planet4-child-theme-norway" : "*"
 	},
 	"scripts": {
 		"core:language": "wp language core install nb_NO; wp language core activate nb_NO",
-		"install:plugin-wpimport": "wp plugin install --activate https://raw.githubusercontent.com/greenpeace/planet4-3rdparty-plugins/master/wp-all-import-pro_4.5.4.zip",
 		"site:custom": [
-			"@core:language",
-			"@install:plugin-wpimport"
+			"@core:language"
 		]
 
 	}
