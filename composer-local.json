@@ -3,8 +3,8 @@
 	"description": "Greenpeace P4 Norway",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-child-theme-norway" : "dev-develop",
-		"greenpeace/planet4-gpnordic-plugin-portrait" : "dev-develop"
+		"greenpeace/planet4-child-theme-norway" : "0.1",
+		"greenpeace/planet4-gpnordic-plugin-portrait" : "1.0.5"
 	},
 	"scripts": {
 		"core:language": "wp language core install nb_NO; wp language core activate nb_NO",
