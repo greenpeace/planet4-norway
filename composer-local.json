@@ -5,7 +5,7 @@
 	"require": {
 		"greenpeace/planet4-child-theme-nordic" : "1.0.6",
 		"greenpeace/planet4-child-theme-norway" : "0.1",
-		"greenpeace/planet4-gpnordic-plugin-portrait" : "1.0.7"
+		"greenpeace/planet4-gpnordic-plugin-portrait" : "1.0.8"
 	},
 	"scripts": {
 		"core:language": "wp language core install nb_NO; wp language core activate nb_NO",
