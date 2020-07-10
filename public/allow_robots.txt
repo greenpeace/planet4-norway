@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://www.greenpeace.org/norway/sitemap.xml
-Sitemap: https://www.greenpeace.org/norway/countries.xml
