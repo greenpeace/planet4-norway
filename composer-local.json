@@ -1,18 +1,18 @@
 {
-	"name": "greenpeace/planet4-norway",
-	"description": "Greenpeace P4 Norway",
-	"license": "MIT",
-	"require": {
-		"greenpeace/planet4-child-theme-nordic" : "dev-develop",
-		"greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop",
-		"greenpeace/planet4-gpnordic-plugin-leads": "dev-develop",
-		"greenpeace/planet4-gpnordic-plugin-portrait" : "dev-develop"
-	},
-	"scripts": {
-		"core:language": "wp language core install nb_NO; wp language core activate nb_NO",
-		"site:custom": [
-			"@core:language"
-		]
+    "name": "greenpeace/planet4-norway",
+    "description": "Greenpeace P4 Norway",
+    "license": "MIT",
+    "require": {
+        "greenpeace/planet4-child-theme-nordic" : "dev-develop",
+        "greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop",
+        "greenpeace/planet4-gpnordic-plugin-leads": "dev-develop",
+        "greenpeace/planet4-gpnordic-plugin-portrait" : "dev-develop"
+    },
+    "scripts": {
+        "core:language": "wp language core install nb_NO; wp language core activate nb_NO",
+        "site:custom": [
+            "@core:language"
+        ]
 
-	}
+    }
 }
