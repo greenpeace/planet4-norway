@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Sitemap: https://www.greenpeace.org/norway/wp-sitemap.xml
