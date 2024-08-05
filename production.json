@@ -1,6 +1,6 @@
 {
   "require": {
-    "greenpeace/planet4-child-theme-nordic" : "1.47.2",
-    "greenpeace/planet4-gpnordic-plugin-leads" : "1.1.9"
+    "greenpeace/planet4-child-theme-nordic" : "1.47.3",
+    "greenpeace/planet4-gpnordic-plugin-leads" : "1.1.10"
   }
 }
