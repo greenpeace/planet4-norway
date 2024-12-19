@@ -3,7 +3,8 @@
     "greenpeace/planet4-master-theme": "dev-main",
     "greenpeace/planet4-plugin-gutenberg-blocks": "dev-main",
     "greenpeace/planet4-child-theme-nordic": "dev-release/v1.47.4",
+    "greenpeace/planet4-gpnordic-plugin-leads": "dev-release/v1.1.13",
     "greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop",
-    "greenpeace/planet4-gpnordic-plugin-leads": "dev-develop"
+    "wpackagist-plugin/beaf-before-and-after-gallery": "4.5.*"
   }
 }
