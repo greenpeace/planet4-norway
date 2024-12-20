@@ -1,6 +1,7 @@
 {
   "require": {
-    "greenpeace/planet4-child-theme-nordic" : "1.47.4",
-    "greenpeace/planet4-gpnordic-plugin-leads" : "1.1.12"
-  }
+    "greenpeace/planet4-child-theme-nordic" : "1.47.5",
+    "greenpeace/planet4-gpnordic-plugin-leads" : "1.1.13",
+    "wpackagist-plugin/beaf-before-and-after-gallery": "4.5.*"
+}
 }
