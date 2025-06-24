@@ -1,6 +1,6 @@
 {
   "require": {
-    "greenpeace/planet4-master-theme": "dev-fix-special-chars-escaping-on-migrations",
+    "greenpeace/planet4-master-theme": "dev-main",
     "greenpeace/planet4-child-theme-nordic": "dev-release/v1.47.7",
     "greenpeace/planet4-gpnordic-plugin-leads": "dev-release/v1.1.15",
     "greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop",
