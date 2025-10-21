@@ -27,6 +27,7 @@ job_environments:
     APP_HOSTPATH: norway
     CONTAINER_PREFIX: planet4-norway
   develop_environment: &develop_environment
+    BASE_RELEASE: v25.18.1
     APP_ENVIRONMENT: development
     APP_HOSTNAME: www-dev.greenpeace.org
     CLOUDSQL_INSTANCE: p4-develop-k8s
