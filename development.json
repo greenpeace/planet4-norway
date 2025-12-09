@@ -2,7 +2,7 @@
   "require": {
     "greenpeace/planet4-master-theme": "dev-main",
     "greenpeace/planet4-child-theme-nordic": "dev-release/v1.47.13",
-    "greenpeace/planet4-gpnordic-plugin-leads": "dev-release/v1.1.15",
+    "greenpeace/planet4-gpnordic-plugin-leads": "dev-release/v1.1.16",
     "greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop",
     "wpackagist-plugin/beaf-before-and-after-gallery": "4.5.*",
     "plugins/gravityformszapier": "*"
