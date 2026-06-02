@@ -2,6 +2,7 @@ job_environments:
   common_environment: &common_environment
     APP_HOSTPATH: norway
     CONTAINER_PREFIX: planet4-norway
+    BASE_RELEASE: v26.6.1-fix-date
   develop_environment: &develop_environment
     BASE_RELEASE: v25.18.1
     APP_ENVIRONMENT: development
