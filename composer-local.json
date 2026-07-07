@@ -3,7 +3,6 @@
   "description": "Greenpeace P4 Norway",
   "license": "MIT",
   "require": {
-    "greenpeace/planet4-master-theme" : "v1.366.0",
     "greenpeace/planet4-child-theme-nordic" : "dev-develop",
     "greenpeace/planet4-gpnordic-plugin-leads": "dev-develop",
     "plugins/gravityformszapier": "*",
